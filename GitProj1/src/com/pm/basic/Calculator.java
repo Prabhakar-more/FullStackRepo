@@ -57,7 +57,6 @@ public class Calculator {
      System.out.println();
 
      // print the final result
-     System.out.println(num1 + " " + op + " " + num2
-                        + " = " + o);
+     System.out.println(num1 + " " + op + " " + num2 + " = " + o);
  }
 }
